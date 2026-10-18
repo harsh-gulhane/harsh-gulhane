@@ -10,7 +10,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harshgulhane"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiByeD0iNCIgZmlsbD0iIzAwYzg5NiIvPjx0ZXh0IHg9IjEyIiB5PSIxOCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLEhlbHZldGljYSxzYW5zLXNlcmlmIiBmb250LXdlaWdodD0iNzAwIiBmb250LXNpemU9IjE1IiBmaWxsPSIjMGQxMTE3Ij5pbjwvdGV4dD48L3N2Zz4%3D" alt="LinkedIn" /></a>
-  <a href="https://harshgulhane.com"><img src="https://img.shields.io/badge/harshgulhane.com-0d1117?style=for-the-badge&logo=firefoxbrowser&logoColor=00c896" alt="Website" /></a>
   <a href="mailto:harshgulhane@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00c896" alt="Email" /></a>
   <img src="https://hits.sh/github.com/harsh-gulhane.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=0d1117&labelColor=0d1117&logo=github&logoColor=00c896" alt="Profile views" />
 </p>
@@ -118,8 +117,6 @@ a7f3c21 (HEAD) Senior SRE / Cybersecurity  KOMOJU, Tokyo       2024 → now
 0000001 (init) B.Tech IT, RCOEM · MBA Business Analytics, BITS Pilani
 ```
 
-🏆 **Recognition:** Unsung Hero Award, KOMOJU (2025) · Rockstar Award, PayPay (2023) for bootstrapping PayPay Card infrastructure · FedRAMP audit recognition, Juniper (2022) · Outstanding Performance, Deloitte (2021) · Python Hackathon winner, Amdocs (2019)
-
 ### 🚀 Featured projects
 
 <p align="center">
@@ -131,7 +128,8 @@ a7f3c21 (HEAD) Senior SRE / Cybersecurity  KOMOJU, Tokyo       2024 → now
   </a>
 </p>
 
-- 🔐 **[harshgulhane.com](https://harshgulhane.com)**: a self-hosted security toolkit (Go, Docker, Cloudflare Tunnel) with website security checks and threat dashboards. *Coming soon.*
+- 📷 **Try LogiCam Tuner:** `brew install --cask harsh-gulhane/tap/logicam-tuner`
+- 🔐 **harshgulhane.com**: a self-hosted security toolkit (Go, Docker, Cloudflare Tunnel) with website security checks and threat dashboards. *Coming soon.*
 
 ### 📊 Telemetry
 
