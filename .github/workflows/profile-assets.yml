@@ -1,8 +1,8 @@
-name: Generate contribution snake
+name: Refresh profile assets
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 */6 * * *"
   workflow_dispatch:
   push:
     branches: [main]
@@ -10,11 +10,29 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: profile-assets
+  cancel-in-progress: false
+
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      # Cards from the last run are the fallback when a card service is down.
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        continue-on-error: true
+        with:
+          ref: output
+          path: previous
+
+      - name: Fetch stat cards
+        run: scripts/fetch-cards.sh
+        env:
+          GITHUB_USER: ${{ github.repository_owner }}
+
       - uses: Platane/snk@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3.5.0
         with:
           github_user_name: ${{ github.repository_owner }}

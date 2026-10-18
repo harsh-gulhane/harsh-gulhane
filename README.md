@@ -10,6 +10,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harshgulhane"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiByeD0iNCIgZmlsbD0iIzAwYzg5NiIvPjx0ZXh0IHg9IjEyIiB5PSIxOCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLEhlbHZldGljYSxzYW5zLXNlcmlmIiBmb250LXdlaWdodD0iNzAwIiBmb250LXNpemU9IjE1IiBmaWxsPSIjMGQxMTE3Ij5pbjwvdGV4dD48L3N2Zz4%3D" alt="LinkedIn" /></a>
+  <a href="https://harshgulhane.com"><img src="https://img.shields.io/badge/harshgulhane.com-0d1117?style=for-the-badge&logo=firefoxbrowser&logoColor=00c896" alt="Website" /></a>
+  <a href="https://blog.harshgulhane.com"><img src="https://img.shields.io/badge/Blog-0d1117?style=for-the-badge&logo=rss&logoColor=00c896" alt="Blog" /></a>
   <a href="mailto:harshgulhane@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00c896" alt="Email" /></a>
   <img src="https://hits.sh/github.com/harsh-gulhane.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=0d1117&labelColor=0d1117&logo=github&logoColor=00c896" alt="Profile views" />
 </p>
@@ -121,25 +123,41 @@ a7f3c21 (HEAD) Senior SRE / Cybersecurity  KOMOJU, Tokyo       2024 → now
 
 <p align="center">
   <a href="https://github.com/harsh-gulhane/logicam-tuner">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harsh-gulhane&repo=logicam-tuner&bg_color=0d1117&title_color=00c896&icon_color=00c896&text_color=c9d1d9&hide_border=true" alt="logicam-tuner" />
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harsh-gulhane/harsh-gulhane/output/pin-logicam-tuner-light.svg?v=2" />
+      <img src="https://raw.githubusercontent.com/harsh-gulhane/harsh-gulhane/output/pin-logicam-tuner-dark.svg?v=2" alt="logicam-tuner" />
+    </picture>
   </a>
   <a href="https://github.com/harsh-gulhane/datadog-mcp-server">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harsh-gulhane&repo=datadog-mcp-server&bg_color=0d1117&title_color=00c896&icon_color=00c896&text_color=c9d1d9&hide_border=true" alt="datadog-mcp-server" />
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harsh-gulhane/harsh-gulhane/output/pin-datadog-mcp-server-light.svg?v=2" />
+      <img src="https://raw.githubusercontent.com/harsh-gulhane/harsh-gulhane/output/pin-datadog-mcp-server-dark.svg?v=2" alt="datadog-mcp-server" />
+    </picture>
   </a>
 </p>
 
 - 📷 **Try LogiCam Tuner:** `brew install --cask harsh-gulhane/tap/logicam-tuner`
-- 🔐 **harshgulhane.com**: a self-hosted security toolkit (Go, Docker, Cloudflare Tunnel) with website security checks and threat dashboards. *Coming soon.*
+- 🔐 **[harshgulhane.com](https://harshgulhane.com)**: a self-hosted security toolkit (Go, Docker, Cloudflare Tunnel) with website security checks and threat dashboards.
+- ✍️ **[blog.harshgulhane.com](https://blog.harshgulhane.com)**: notes on SRE, cloud security and incident response.
 
 ### 📊 Telemetry
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harsh-gulhane&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00c896&icon_color=00c896&text_color=c9d1d9&hide_border=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-gulhane&layout=compact&bg_color=0d1117&title_color=00c896&text_color=c9d1d9&hide_border=true" height="165" alt="Top languages" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harsh-gulhane/harsh-gulhane/output/stats-light.svg?v=2" />
+    <img src="https://raw.githubusercontent.com/harsh-gulhane/harsh-gulhane/output/stats-dark.svg?v=2" height="165" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harsh-gulhane/harsh-gulhane/output/top-langs-light.svg?v=2" />
+    <img src="https://raw.githubusercontent.com/harsh-gulhane/harsh-gulhane/output/top-langs-dark.svg?v=2" height="165" alt="Top languages" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=harsh-gulhane&background=0d1117&ring=00c896&fire=00c896&currStreakLabel=00c896&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff&stroke=30363d&hide_border=true" alt="Contribution streak" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harsh-gulhane/harsh-gulhane/output/streak-light.svg?v=2" />
+    <img src="https://raw.githubusercontent.com/harsh-gulhane/harsh-gulhane/output/streak-dark.svg?v=2" alt="Contribution streak" />
+  </picture>
 </p>
 
 <p align="center">
